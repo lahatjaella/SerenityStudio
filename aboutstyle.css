@@ -1,0 +1,113 @@
+body {
+  background-color: #fff7c5ff;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #d5f3ceff;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color:#5bc7b3;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+  font-family: 'avenir';
+}
+
+li a:hover {
+  background-color:#ffdbbfff;;
+}
+
+h1 {
+  color:#ffa267;
+  text-align: center;
+  font-family: 'Brush Script MT'; 
+  font-size: 40px;
+}
+
+#HEADER {
+  background-color: #ffdbbfff;
+  height: 100%;
+    top: 100%;
+    left: 100%;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 12px;
+}
+
+h3 {
+  color:#5bc7b3;
+  text-align: center;
+  font-family: 'Optima'; 
+  font-size: 54px;
+  border-style: solid;
+  border-width: 5px;
+  height: 60px;
+  width: 300px;
+  padding-top: 8px;
+  padding-bottom: 10px;
+  border-radius: 30px;
+  margin: auto;
+}
+
+h4 {
+  color:#5bc7b3;
+  text-align: center;
+  font-family: 'Avenir'; 
+  font-size: 20px;
+  font-style: italic;
+}
+
+h5 {
+  color:#5bc7b3;
+  text-align: center;
+  font-family: 'Avenir'; 
+  font-size: 40px;
+}
+
+footer {
+  font-family: 'Avenir'; 
+  font-size: 15px;
+  color: #5bc7b3;
+  text-align: center;
+}
+#LOGO {
+  background-color: #ffdbbfff;
+  padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+@media screen and (max-width: 768px) {
+  .columns {
+    width: 100%;
+  }
+}
+
+.image4
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+  width: 950px;
+}
+
+#FOOTER {
+  background-color: #d5f3ceff;
+  height: 30px;
+    width: 880px;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 3%;
+    padding-bottom: 9%;
+    margin: auto;
+}
